@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "db352618-1c56-43d4-a401-5787808a4ef6",
+    "Name": "UsrDummyProcessToDelete",
+    "ModifiedOnUtc": "\/Date(1674055963000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Dummy Process",
+    "DependsOn": []
+  }
+}
