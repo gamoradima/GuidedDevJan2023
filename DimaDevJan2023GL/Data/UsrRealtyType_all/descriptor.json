@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "f0cc4c60-2827-8532-b1ce-19ee5134efcd",
+    "Name": "UsrRealtyType_all",
+    "ModifiedOnUtc": "\/Date(1674141143000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "94fd100e-d945-468e-8f53-4c2e589a07cd",
+      "Name": "UsrRealtyType"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "df011be6-2067-bcb2-1b98-eb13badcff21",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrPhone",
+        "DataTypeValueUId": "26cba63c-daf1-4f36-b2ea-73c0d675d90c"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

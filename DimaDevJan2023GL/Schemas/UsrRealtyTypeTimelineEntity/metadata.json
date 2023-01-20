@@ -1,0 +1,41 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "e60ad88f-ad12-4b3a-9f4b-f1092d67122c",
+      "A2": "UsrRealtyTypeTimelineEntity",
+      "A5": "cdaf7940-4360-44d1-9a4b-dbd229a70001",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "433c461f-e1f9-ab3d-00a8-ffa5f030e66f",
+      "B8": "8.0.6.3422",
+      "AD1": "94fd100e-d945-468e-8f53-4c2e589a07cd",
+      "AD2": "EntitySchemaManager",
+      "AD3": "TimelineEntity",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "SchemaName": "UsrRealtyType",
+  "TypeColumnUId": "00000000-0000-0000-0000-000000000000",
+  "TimelineEntityValues": [
+    {
+      "TypeColumnValue": "00000000-0000-0000-0000-000000000000",
+      "IsDefault": false,
+      "ComparisonType": null,
+      "TileName": null,
+      "ColumnLayouts": [
+        {
+          "ColumnName": "CreatedOn",
+          "ColumnLayout": null
+        },
+        {
+          "ColumnName": "Name",
+          "ColumnLayout": null
+        }
+      ]
+    }
+  ]
+}
+    }
+  }
+}

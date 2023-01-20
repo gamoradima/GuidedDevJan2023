@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e60ad88f-ad12-4b3a-9f4b-f1092d67122c",
+    "Name": "UsrRealtyTypeTimelineEntity",
+    "ModifiedOnUtc": "\/Date(1674060672000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty type (TimelineEntity)",
+    "DependsOn": []
+  }
+}

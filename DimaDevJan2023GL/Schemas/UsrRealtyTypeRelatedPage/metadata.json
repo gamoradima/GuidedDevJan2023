@@ -1,0 +1,22 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "09f58387-62b5-43c1-a80b-8eab6b5ebe9a",
+      "A2": "UsrRealtyTypeRelatedPage",
+      "A5": "cdaf7940-4360-44d1-9a4b-dbd229a70001",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "433c461f-e1f9-ab3d-00a8-ffa5f030e66f",
+      "B8": "8.0.6.3422",
+      "AD1": "94fd100e-d945-468e-8f53-4c2e589a07cd",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": []
+}
+    }
+  }
+}
